@@ -1,5 +1,4 @@
 name: 自动刷步数
-
 on:
     workflow_dispatch:
     schedule:
